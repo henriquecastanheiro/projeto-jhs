@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Projeto_Senai.iml" filepath="$PROJECT_DIR$/Projeto_Senai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO_Sena.iml" filepath="$PROJECT_DIR$/POO_Sena.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO_Senai/POO_Senai.iml" filepath="$PROJECT_DIR$/POO_Senai/POO_Senai.iml" />
     </modules>
   </component>
 </project>
